@@ -7,6 +7,9 @@ This repository contains an academic implementation of the **Herbrand Theorem** 
 
 This project was developed for the **LITI** course (`Logic in Artificial Intelligence`) at University of Seville, during the 2025-2026 academic year.
 
+It is based on the original libraries developed by **Professor Fernando Sancho Caparrini** during the 2025-2026 academic course, which are currently being distributed through the internal course platform as they are under ongoing development.
+Internal course platform: https://www.cs.us.es/cursos/liti-2025/G3/
+
 ## Project Overview
 
 The core objective is to determine the satisfiability of a set of FOL formulas $S$ by following these steps:
